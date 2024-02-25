@@ -1,2 +1,2 @@
-# ola_mundo
- repositorio curso em video
+# olá, munda!
+primeiro repositorio do curso em video
